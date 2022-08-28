@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @soben3310
-- 👀 I’m interested in linux, Automation, Devops, system administratoon, Crypto, web3.
+- 👀 I’m interested in linux, Automation, Devops, System Administration, Crypto, web3.
 - 🌱 I’m currently learning Ansible automation, linux system administration.
 - 💞️ I’m looking to collaborate on open source projects and learn from others.
 - 📫 How to reach me twitter @ninjabo36 and telegram @soben300
